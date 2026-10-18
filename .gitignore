@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# 本地打包/发布产物与个人简历，不提交
+.github-push/
+.trae-html-share-packages/
+resume/
